@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Change this to your name, if modifying
-# Username: heggens                     TODO: Change this to your username, if modifying
+# Author: Concepta Njolima,Ben Maynard             TODO: Change this to your name, if modifying
+# Username: njolimac, Maynardb                    TODO: Change this to your username, if modifying
 #
 # Assignment: T02: Exploring Turtles in Python
 # Purpose: Introduces the use of the turtles library
